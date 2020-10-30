@@ -1,0 +1,9 @@
+#+TITLE: Charity Resources
+#+AUTHOR: Chris Lockard
+#+EMAIL: @unl0ckd@fosstodon.org
+
+* Websites
+- [[https://www.thelifeyoucansave.org/][The Life You Can Save]]
+- [[https://www.effectivealtruism.org/][Effective Altruism]]
+* Books
+- [[https://www.thelifeyoucansave.org/blog/the-most-good-you-can-do/][The Most Good You Can Do by Peter Singer]]
