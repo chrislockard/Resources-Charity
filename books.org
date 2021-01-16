@@ -1,0 +1,6 @@
+#+TITLE: Books on Christianity
+#+AUTHOR: Chris Lockard
+#+EMAIL: @unl0ckd@fosstodon.org
+
+* Jesus Christ
+- [[https://smile.amazon.com/Jesus-Pilgrimage-James-Martin/dp/0062024248/][Jesus, by James Martin S.J.]]
